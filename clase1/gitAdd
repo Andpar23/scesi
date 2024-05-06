@@ -1,0 +1,9 @@
+El comando git add se utiliza para añadir cambios realizados en archivos al área de preparación de Git.
+
+Cuando ejecutas git add, estás seleccionando los cambios que deseas incluir en el próximo commit.
+
+Este comando puede ser utilizado para agregar cambios en archivos específicos, utilizando el nombre del archivo, o para agregar todos los cambios en el directorio actual y sus subdirectorios utilizando el punto (.).
+
+Una vez que has añadido los cambios con git add, están listos para ser confirmados en el próximo commit utilizando el comando git commit.
+
+En resumen, git add es una parte importante del flujo de trabajo de Git, ya que te permite seleccionar y preparar los cambios que deseas incluir en tu historial de commits.
