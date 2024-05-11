@@ -1,4 +1,4 @@
-#Git Add: Preparando tus Cambios
+# Git Add: Preparando tus Cambios
 El comando git add es esencial en el proceso de preparación de cambios para tu repositorio. Te permite seleccionar con precisión los archivos que deseas incluir en tu próximo commit.
 
 Selección Detallada de Cambios
